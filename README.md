@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Image Generator API</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-    </style>
-</head>
-<body>
 
 <h1>AI Image Generator API</h1>
 
@@ -149,5 +115,3 @@ cd ai-image-generator-api</pre>
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
 
-</body>
-</html>
