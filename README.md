@@ -1,7 +1,7 @@
-Here's the complete README code for your AI Image Generator API project, incorporating the updated requirements and additional details:
+
 
 ```markdown
-# AI Image Generator API
+<h1> AI Image Generator API </h1>
 
 ## Overview
 
