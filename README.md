@@ -51,7 +51,7 @@ torch==2.0.1+cu118  # Specify the appropriate CUDA version
 <h2 id="setup">Setup</h2>
 <ol>
     <li><strong>Clone the Repository:</strong>
-        <pre>git clone https://github.com/yourusername/ai-image-generator-api.git
+        <pre>git clone https://github.com/codex-ML/image-generator-api.git
 cd ai-image-generator-api</pre>
     </li>
     <li><strong>Set Environment Variables:</strong>
