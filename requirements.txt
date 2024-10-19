@@ -1,0 +1,16 @@
+transformers==4.28.0
+safetensors==0.3.1
+accelerate==0.27.2
+diffusers==0.26.3
+gradio==4.20.0
+invisible-watermark==0.2.0
+spaces==0.24.0
+omegaconf==2.3.0
+timm==0.9.10
+fastapi==0.95.2
+uvicorn==0.22.0
+cloudinary==1.30.0
+pyngrok==5.2.0
+Pillow==9.5.0
+nest_asyncio==1.5.6
+torch==2.0.1+cu118  # Specify the appropriate CUDA version
